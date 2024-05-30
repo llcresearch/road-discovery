@@ -1,4 +1,5 @@
 # Road-Discovery: Tooling & Models for Fine-Grained Road Detection from Aerial/Satellite Images
+[![ijcnn](https://img.shields.io/badge/IJCNN'2019-Paper-blueviolet)](https://ieeexplore.ieee.org/document/8852009)
 
 **STATEMENT:** This is ONLY and nothing more than a TOY EXAMPLE for understanding the basic possible approach of detecting objects from aerial images. The models included in this repository is under-trained with some public datasets, hence is not suitable for practical use cases. In case of using any source code and/or model, please add reference of this repository to your work.
 
